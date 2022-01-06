@@ -1,0 +1,37 @@
+/* This is a comment in css */
+
+
+
+/* The body */
+* {
+    background-color: rgb(141, 226, 43, 0.5);
+    font-size: 25px;
+}
+* {
+
+    box-sizing: border-box;
+    padding:25px;
+}
+
+.aboutme {
+    background-color: cadetblue;
+}
+.makemegreen {
+
+    color: coral;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+/* The navagation menu */
+/*  Heading */
+h1, p {color: red;
+    font-size:46;
+}
+
+/* paragraph styles */
+p{
+    color:blue;
+}
+
