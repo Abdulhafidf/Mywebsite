@@ -1,10 +1,15 @@
 /* This is a comment in css */
 
-
+/* .container {
+    display: flex;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    flex-direction:row;
+} */
 
 /* The body */
 * {
-    background-color: rgb(141, 226, 43, 0.5);
+    background-color: rgba(231, 201, 33, 0.575);
     font-size: 25px;
 }
 * {
@@ -14,11 +19,11 @@
 }
 
 .aboutme {
-    background-color: cadetblue;
+    background-color: rgba(202, 159, 65, 0.5);
 }
 .makemegreen {
 
-    color: coral;
+    color: rgba(246, 220, 103, 0.746);
 }
 
 *{
@@ -26,12 +31,12 @@
 }
 /* The navagation menu */
 /*  Heading */
-h1, p {color: red;
+h1, p {color: rgb(0, 0, 0);
     font-size:46;
 }
 
 /* paragraph styles */
 p{
-    color:blue;
+    color:rgb(0, 0, 0);
 }
 
